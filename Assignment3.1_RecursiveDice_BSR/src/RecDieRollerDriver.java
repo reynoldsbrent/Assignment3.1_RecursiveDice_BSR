@@ -1,6 +1,6 @@
 
 /**
- * This class calculates the average amount of rolls needed to roll the number 2 on a six sided dice
+ * This class calculates the average amount of rolls needed to roll the number 2 on a six sided dice.
  * @author brentreynolds
  * @version 10/11/22 Fall 2022
  */
