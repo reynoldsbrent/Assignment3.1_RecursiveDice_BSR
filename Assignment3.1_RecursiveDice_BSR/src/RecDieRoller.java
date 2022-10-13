@@ -11,7 +11,7 @@ public class RecDieRoller {
 
 	/**
 	 * This method rolls a dice until it rolls a 2. It prints out each of the roll attempts.
-	 * @return the number of 
+	 * @return the number of rolls it takes to land on the number 2
 	 */
 	public int rollDie() {
 		numberOfRollsUntilTwo += 1;
